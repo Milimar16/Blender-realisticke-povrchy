@@ -7,4 +7,4 @@ Tento návod byl vytvořen jako praktická část SOČ roku 2025. Veškeré info
 
 Obsah:
 1. [Předpoklady](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99edpoklady.md)
-2. Příprava prostředí
+2. [Příprava prostředí](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99%C3%ADprava%20prost%C5%99ed%C3%AD.md)
