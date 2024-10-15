@@ -9,6 +9,6 @@ Dále vyberte v pravé liště možnost **Render** a v první možnosti
 <img
   src="https://github.com/user-attachments/assets/ac61b7ed-f462-429e-81e8-172bc7a10fe2"
   alt="Renderovací konfigurace"
-  width="50%"
+  width="75%"
   align="middle"
 />
