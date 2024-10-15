@@ -5,7 +5,7 @@
   src="https://github.com/user-attachments/assets/1beefad8-bfb7-4aa6-8723-c254f48c9007"
   alt="Základní rozpoložení"
   width="50%"
-  align="center"
+  align="right"
 />
 
 Dále vyberte v pravé liště možnost **Render** a v první možnosti **Render engine** jej změnte z EEVEE na **Cycles**.
