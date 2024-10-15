@@ -13,5 +13,5 @@ Dále vyberte v pravé liště možnost **Render** a v první možnosti
   width="75%"
   align="middle"
 /> </div>
-
+<br>
 Tímto krokem jste změnili render engine, který bude blender využívat. **Cycles** je vhodnější pro renderování realismu. Je ale hardwarově více náročný proto se nedivte, když váš render nebude trvat pár sekund jako v EEVEE, ale několik minut (a nebo hodin 😱 u náročnějších scén!)
