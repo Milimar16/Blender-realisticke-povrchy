@@ -15,3 +15,5 @@ Dále vyberte v pravé liště možnost **Render** a v první možnosti
 /> </div>
 <br>
 Tímto krokem jste změnili render engine, který bude blender využívat. Cycles je vhodnější pro renderování realismu. Je ale hardwarově více náročný proto se nedivte, když váš render nebude trvat pár sekund jako v EEVEE, ale několik minut (a nebo hodin 😱 u náročnějších scén!)
+
+### Krok 2. Instalace rozšíření [Node Wrangler](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html)
