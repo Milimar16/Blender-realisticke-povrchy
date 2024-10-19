@@ -6,4 +6,4 @@ Předpoklady k tvorbě jsou:
 	- 8 gigabajtů RAM
 	- grafický komponent se 4 gigabajty VRAM podporující knihovnu [OpenGL](https://www.opengl.org/) verze 4.3
  
- *Tento návod pracuje ve verzi číslo 4.2.2 s dlouhodobou podporou, ale bude postupně obnovován aby mohl pracovat i s nejnovějšími verzemi.*
+ *Tento návod pracuje ve verzi číslo 4.2.2 s dlouhodobou podporou.*
