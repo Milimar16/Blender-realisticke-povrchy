@@ -10,3 +10,5 @@ Obsah:
 2. [Příprava prostředí](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99%C3%ADprava%20prost%C5%99ed%C3%AD.md)
 3. Poškrábaná ocel
    1. [Zrno oceli](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Zrno%20oceli.md)
+   2. [Malé škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Mal%C3%A9%20%C5%A1kr%C3%A1bance.md)
+
