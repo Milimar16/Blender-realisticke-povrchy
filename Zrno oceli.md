@@ -37,7 +37,7 @@ Následně propojte takto:
 <div align="center">
 <img
   src="https://github.com/user-attachments/assets/5f8c6350-4140-4bb4-9811-7d9dad400dc4"
-  alt="02"
+  alt="O2"
   width="75%"
   align="middle"
 /> </div>
