@@ -9,4 +9,4 @@ Obsah:
 1. [Předpoklady](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99edpoklady.md)
 2. [Příprava prostředí](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99%C3%ADprava%20prost%C5%99ed%C3%AD.md)
 3. Poškrábaná ocel
-   1. [Zrno oceli](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel.md)
+   1. [Zrno oceli](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Zrno%20oceli.md)
