@@ -58,5 +58,6 @@ Potom ve stejém okně vyberte záložku **Get Extensions** a zde vyhledejte a *
 Toto rozšíření umožňuje ukládání materiálů a jejich používání napříč různými projekty.
 <br>
 
+Následně ve vrchní liště vyberte **Shading**, a nový materiál se vám sám vytvoří.
 Teď už je váš program připraven a můžeme se pustit do tvorby materiálů!
 
