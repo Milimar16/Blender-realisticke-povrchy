@@ -58,4 +58,6 @@ Poté zapojte následovně, aby se bump projevil jako výstupky na výsledném z
   width="75%"
   align="middle"
 /> </div>
-
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Mal%C3%A9%20%C5%A1kr%C3%A1bance.md">Další krok =></a>
+ </div>
