@@ -61,6 +61,6 @@ Toto rozšíření umožňuje ukládání materiálů a jejich používání nap
 Následně ve vrchní liště vyberte **Shading**, a nový materiál se vám sám vytvoří.
 Teď už je váš program připraven a můžeme se pustit do tvorby materiálů!
 <div align="right">
-<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99%C3%ADprava%20prost%C5%99ed%C3%AD.md">Další krok =></a>
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Zrno%20oceli.md">Další krok =></a>
  </div>
 
