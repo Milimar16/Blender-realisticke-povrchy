@@ -1,4 +1,4 @@
-# Škrábance oceli
+# Malé škrábance oceli
 ### Krok 1. - Vytvoření normálové mapy škrábanců
 Přidejte do prostředí uzel **Textura šumu**, kterou připojte rovnou za uzel Mapování, a **Rampu barev**.
 **Texturu šumu** upravte takto:
@@ -17,6 +17,8 @@ Pak spojte následovně (obrázek ukazuje náhled na uzel Rampa barev):
   width="75%"
   align="middle"
 /> </div>
+
+---
 
 ### Krok 2. - Spojení normálových map škrábanců a zrna
 Spojení této a minulé hrubosti zrna dosáhneme dalším **Bump** uzlem. Můžeme duplikovat předchozí, zapojit do výšky naši nynější texturu a do normály připojit předchozí Bump uzel.
