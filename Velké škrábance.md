@@ -18,4 +18,27 @@ Pomocí tohoto uzlu určíme oblast ve které se budou škrábance projevovat.
 Vytvořte nový uzel **Textura šumu**, který zatím nechte volně v prostoru, nastavte typ šumu na **Hetero Terrain** upravte jej následujícím způsobem:
 - **Velikost** nastavte na cca 1.4, toto určuje velikost oblastí.
 - **Detail** na maximum.
-- **Historie vracení** na 
+- **Historie vracení** na 1 - 4, toto určuje nepravidelnost a rozpoložení oblastí.
+Náhled na tuto texturu by měl vypadat asi takto:
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/97d8a423-1e23-4494-8e42-f43dc20c74ce"
+  alt="O9"
+  width="50%"
+  align="middle"
+/> </div>
+<br>
+
+---
+### Krok 2. - Sloučení 2 textur
+To aby se Vlnová textura projevovala v oblastech určených Texturou šumu, využijeme uzly **Oddělit XYZ** a **Kombinovat XYZ**. Poté přiřadíme Vlnovou texturu pouze k jedné ze souřadnic (v tomto případě **Y**), ostatní necháme být.
+
+Vytvořte tyto dva uzly a připojte je následovně:
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/2ff93dec-53be-4914-a4af-3c51807f0961"
+  alt="O10"
+  width="50%"
+  align="middle"
+/> </div>
+<br>
