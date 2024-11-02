@@ -42,3 +42,18 @@ Vytvořte tyto dva uzly a připojte je následovně:
   align="middle"
 /> </div>
 <br>
+
+---
+### Krok 3. - Omezení rozsahu a spojení s ostatními normálami
+V této podobě by byly škrábance příliš časté a ostré, proto přidáme za Texturu šumu ještě **Rampu barev** u které posunutím posuvníků dosáhneme přesně toho (ještě nezapomeňte prohodit bílou a černou).
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/11412d86-c454-4b37-bc4e-833d8336e584"
+  alt="O10"
+  width="50%"
+  align="middle"
+/> </div>
+<br>
+
+
+
