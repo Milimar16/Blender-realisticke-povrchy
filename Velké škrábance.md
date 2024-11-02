@@ -59,3 +59,10 @@ V této podobě by byly škrábance příliš časté a ostré, proto přidáme 
 
 Teď už nám stačí pouze zkombinovat tuto normálovou mapu s ostatními dvěma vytvořenými v minulých kapitolách, a to zase za pomocí uzlu **Bump**, do jekož vstupu Výška zapojíme naši novou texturu, a do Normály připojíme výstup minulého Bump uzlu.
 
+Duplikujeme tedy minulý **Bump** uzel (Shift + D) a připojíme jej tak jak bylo popsáno, s výstupem vedoucím do vstupu Normála na uzlu **Principled BSDF**.
+
+![O12](https://github.com/user-attachments/assets/f2c034eb-1baf-437f-a421-3a3733503eb1)
+
+Nakonec nezapomeňte připojit Principled BSDF s výstupem, jako na obrázku.
+
+
