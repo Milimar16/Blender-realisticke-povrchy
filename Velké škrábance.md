@@ -66,5 +66,5 @@ Duplikujeme tedy minulý **Bump** uzel (Shift + D) a připojíme jej tak jak byl
 Nakonec nezapomeňte připojit Principled BSDF s výstupem, jako na obrázku.
  
 <div align="right">
-<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled">Další krok =></a>
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled.md">Další krok =></a>
  </div>
