@@ -7,6 +7,12 @@ Pomocí barev jsou označeny jednotlivé kapitoly:
 - Červená - [Malé škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Mal%C3%A9%20%C5%A1kr%C3%A1bance.md)
 - Modrá - [Velké škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Velk%C3%A9%20%C5%A1kr%C3%A1bance.md)
 
+A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
+![O14](https://github.com/user-attachments/assets/4b3eb6e5-46e9-441e-af9c-0e6fa43da09a)
+
+_Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení._
+
+
 Pokud máte nějaké otázky ohledně návodu, zkuste svoji odpověď nalézt v souboru [Často kladené otázky]()
 
 
