@@ -43,6 +43,8 @@ Vytvořte tyto dva uzly a připojte je následovně:
 /> </div>
 <br>
 
+Tímto se nám spojily tyto dvě textury, a škrábance se budou projevovat více na oblastech vyznačených Texturou šumu.
+
 ---
 ### Krok 3. - Omezení rozsahu a spojení s ostatními normálami
 V této podobě by byly škrábance příliš časté a ostré, proto přidáme za Texturu šumu ještě **Rampu barev** u které posunutím posuvníků dosáhneme přesně toho (ještě nezapomeňte prohodit bílou a černou).
