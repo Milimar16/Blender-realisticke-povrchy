@@ -49,3 +49,7 @@ Výsledkem by měla být textura na které je vidět jak zrno (červeně vyznač
   
 ![O7](https://github.com/user-attachments/assets/bfdd193b-e228-4ccb-8d49-16b548e6ce8c)
 </div>
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Velk%C3%A9%20%C5%A1kr%C3%A1bance.md">Další krok =></a>
+ </div>
