@@ -57,5 +57,5 @@ V této podobě by byly škrábance příliš časté a ostré, proto přidáme 
 /> </div>
 <br>
 
-
+Teď už nám stačí pouze zkombinovat tuto normálovou mapu s ostatními dvěma vytvořenými v minulých kapitolách, a to zase za pomocí uzlu **Bump**, do jekož vstupu Výška zapojíme naši novou texturu, a do Normály připojíme výstup minulého Bump uzlu.
 
