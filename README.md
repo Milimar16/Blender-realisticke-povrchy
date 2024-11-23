@@ -8,12 +8,12 @@ Tento návod byl vytvořen jako praktická část SOČ roku 2025. Veškeré info
 Obsah:
 1. [Předpoklady](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99edpoklady.md)
 2. [Příprava prostředí](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/P%C5%99%C3%ADprava%20prost%C5%99ed%C3%AD.md)
-A. Poškrábaná ocel
+3. Poškrábaná ocel
    1. [Zrno oceli](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Zrno%20oceli.md)
    2. [Malé škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Mal%C3%A9%20%C5%A1kr%C3%A1bance.md)
    3. [Velké škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Velk%C3%A9%20%C5%A1kr%C3%A1bance.md)
    4. [Ocel - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled)
-B. Dřevo
+4. Dřevo
    1. Barva
    2. Hlavní struktura
    3. Suky
