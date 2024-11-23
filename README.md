@@ -14,8 +14,7 @@ Obsah:
    3. [Velké škrábance](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Velk%C3%A9%20%C5%A1kr%C3%A1bance.md)
    4. [Ocel - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled)
 4. Dřevo
-   1. Barva
-   2. Hlavní struktura
-   3. Suky
-   4. Dodatečné škrábance
-   5. Dřevo - přehled
+   1. Hlavní struktura
+   2. Suky
+   3. Dodatečné škrábance
+   4. Dřevo - přehled
