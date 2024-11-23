@@ -11,3 +11,5 @@ Druhá Textura šumu (vyznačena červeně) bude standardní texturou, která bu
 - **Velikost** snižte na 2.5
 - **Detail** na maximum
 - **Historii vracení** na cokoliv mezi 1 a 2, záleží jak strukturované jej chcete mít (v ukázce 1.3)
+
+![D1](https://github.com/user-attachments/assets/fac64d61-c1d0-40b3-ae44-6112a745b713)
