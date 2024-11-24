@@ -36,3 +36,11 @@ Také připojte faktorový výstup normalizované textury šumu do vektorového 
 _Pro zjednodušení jsou uzly šumu ohraničeny stejnými barvami jako v prvním kroku._
 ![D4](https://github.com/user-attachments/assets/76e9697d-7c9b-4329-98c3-95beced9afb9)
 
+---
+### Krok 4. Zbarevnění
+Posledním krokem této části bude zbarevnění (aby dřevo nebylo jen černobílé). Tohoto dosáhneme přidáním **Rampy barev** za výstup druhého mixovacího uzlu a před vstup **Základní barva** v Principled BSDF.
+Do Rampy barev pomocí tlačítka **+** přidejte jeden nebo dva další posuvníky, přičemž barvy na těchto posuvnících vyberte od vámi určené nejtmavší hnědé po nejsvětlejší béžovou, a tyto dva extrémy umístěte na kraje gradientového řádku.
+
+_Příklad barevného provedení (podle autorovy kuchyňské linky):_
+![D5](https://github.com/user-attachments/assets/d3024f97-c0ce-4f83-b945-1eda7dfe7d0d)
+
