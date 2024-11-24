@@ -12,7 +12,7 @@ Přidejte do plochy uzel **Vlnová textura** a **Textura šumu**. Nastavte je ta
 - **Detail** na maximum
 - **Lacunarity** na 3.6
 
-Následně zapojte barvový výstup vlnové textury do vektoru Textury šumu a přidejte (pomocí Ctrl + T) Mapování a Souřadnice textury.
+Následně zapojte barvový výstup vlnové textury do vektoru Textury šumu a přidejte (pomocí Ctrl + T) Mapování a Souřadnice textury, kde zvolte místo Generated výstup UV.
 
 ![D6](https://github.com/user-attachments/assets/d7387dce-a3f6-445a-a14f-5fbd5cf6ce2d)
 
