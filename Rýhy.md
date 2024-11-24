@@ -14,3 +14,10 @@ Přidáním **Rampy Barev** za texturu šumu a posunutím černého posuvníku c
 Výsledek násobícího uzlu připojte do vstupu **Základní barva** (vytváříme tedy jenom barevný základ) uzlu **Principled BSDF**.
 
 ![D9](https://github.com/user-attachments/assets/4d89591b-9f88-48e0-a10b-826316ed1b93)
+
+---
+### Krok 3. Užití bump mappingu
+Vložte 2 uzly **Bump** a snižte jejich sílu na 0.2. Následovně do Výšky prvního zapojte výstup **Rampy barev** určující barvu dřeva, a do Výšky druhého výstup **Rampy barev** určující rozprostření rýh. 
+Propojte normálovými spoji první s druhým a výstup druhého zapojte do **Normály Principled BSDF**.
+
+![D10](https://github.com/user-attachments/assets/33f73781-b80c-4569-9c9f-07115367a565)
