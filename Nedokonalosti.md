@@ -22,3 +22,6 @@ Vytvořte uzel **Rampa barev** kde úplně na kraj levé strany gradientového �
 
 ![D7](https://github.com/user-attachments/assets/f0db0f10-7143-4791-812d-ad8d5306e500)
 
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md">Další krok =></a>
+ </div>
