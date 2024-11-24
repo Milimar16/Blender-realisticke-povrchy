@@ -44,3 +44,6 @@ Do Rampy barev pomocí tlačítka **+** přidejte jeden nebo dva další posuvn�
 _Příklad barevného provedení (podle autorovy kuchyňské linky):_
 ![D5](https://github.com/user-attachments/assets/d3024f97-c0ce-4f83-b945-1eda7dfe7d0d)
 
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nedokonalosti.md">Další krok =></a>
+ </div>
