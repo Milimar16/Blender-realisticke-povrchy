@@ -9,3 +9,7 @@ Aby se praskliny nerozprostírali po celé ploše objektů, použijeme masku, kt
 
 Duplikujte tedy **Texturu šumu** a za ni připojte **Rampu barev** kde posuvník s černou barvou umístěte přibližně doprostřed. Následně stačí vytvořit další uzel **Mix color** kde do Faktoru připojte výstup Barva z Rampy barev a do vstupu A výstup Textury Voronoi. Barvu B nastavte na bílou (#FFFFFF)
 ![A4](https://github.com/user-attachments/assets/7a093dfe-94d4-475e-8ead-ba332324adee)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md">Další krok =></a>
+ </div>
