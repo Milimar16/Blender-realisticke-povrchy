@@ -19,5 +19,8 @@ Obsah:
    3. Dodatečné škrábance
    4. Dřevo - přehled
 5. Asfalt
-   1. Barva asfaltu
+   1. [Barva asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20asfaltu.md)
+   2. [Praskliny](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Praskliny.md)
+   3. [Poškození](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md)
+   4. [Bump mapping a hrubost asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Bump%20mapping%20a%20hrubost%20asfaltu.md)
 
