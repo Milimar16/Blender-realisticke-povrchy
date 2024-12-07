@@ -27,3 +27,7 @@ Faktor čtvrtého nastavte na 0.4 a do jeho vstupu Výška připojte výsledek u
 ### Krok 3. Hrubost
 Konečným krokem bude ovlivnění hrubosti (Roughness) asfaltu. Budeme vycházet z výstupu skupiny uzlů určujících barvu a přidáme do prostředí **Rampu barev** do jejíhž vstupu bude směřovat výstup Vzdálenost uzlu Textura Voronoi z první kapitoly ([Barva asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20asfaltu.md)). Černou barvu na levé straně rampy nahraďte za velmi světlou šedou, aby byl materiál výrazně hrubý. Výstup rampy barev pak povede přímo do vstupu **Roughness** uzlu Principled BSDF.
 ![A14](https://github.com/user-attachments/assets/915529ec-f859-4552-807f-15350d7e8da2)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Asfalt%20-%20p%C5%99ehled.md">Další krok =></a>
+ </div>
