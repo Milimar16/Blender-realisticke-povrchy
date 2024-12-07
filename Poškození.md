@@ -12,3 +12,19 @@ Následně pro slabé zkreslení využijeme znovu **Textury šumu**, kde nastav�
 
 Výstup míchacího uzlu připojte k uzlu **Textura Voronoi** a nakonec ještě jednou výstup Objekt připojte i k Vektoru **Textury šumu**.
 ![A5](https://github.com/user-attachments/assets/56768842-a49c-409a-8277-b32edd9f7213)
+
+---
+### Krok 2. Maska
+Stejně jako s prasklinami, i zde nechceme aby štěrk pokrýval celou plochu objektu, ale jenom dané části. Duplikujte tedy uzel **Textura šumu** z minulého kroku a snižte **Velikost** na 3.
+
+Potom přidejte **Rampu barev**, kde posuvníky posuňte vcelku hodně k sobě přibližně do 2/5 lišty (můžete i do jiné části, záleží na tom jak moc chcete aby byl váš asfalt poškozen). Do Faktoru zapojte faktorový výstup nové **Textury šumu**.
+![A6](https://github.com/user-attachments/assets/5c34ac53-41db-41a3-8a8c-a5bb44ee7dd2)
+
+_Černou jsou vyznačeny budoucí poškozené oblasti._
+
+Stejně jako minulou Texturu šumu i tuto připojte k Souřadnicím textury.
+
+Poslední částí je přidání míchacího uzlu **Mix color**. Faktor nastavte na 1 a do barvy A připojte Texturu Voronoi tvořící kamínky z prvního kroku a do B Rampu barev.
+
+Jelikož chceme jen světlé hodnoty kamínků v poškozených částech, změňte **Blending mode** uzlu Mix color na **Zesvětlit**.
+![A7](https://github.com/user-attachments/assets/77ebcfa2-9af2-481b-b60d-b5878c7fab72)
