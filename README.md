@@ -23,4 +23,5 @@ Obsah:
    2. [Praskliny](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Praskliny.md)
    3. [Poškození](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md)
    4. [Bump mapping a hrubost asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Bump%20mapping%20a%20hrubost%20asfaltu.md)
+   5. [Asfalt - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Asfalt%20-%20p%C5%99ehled.md)
 
