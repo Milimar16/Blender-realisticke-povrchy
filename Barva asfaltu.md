@@ -24,3 +24,7 @@ Teď už můžete připojit výsledek Mix color do Vektoru Textury Voronoi.
 ### Krok 3. Určení barev
 Určení samotných barev materiálu provedeme jednoduše pomocí uzlu **Rampa barev**, který připojíme za Texturu Voronoi a vstup Základní barva uzlu Principled BSDF. Stačí nastavit okrajové barvy na odstíny šedé.
 ![A2](https://github.com/user-attachments/assets/fa924eab-ae0f-4f8e-a6c4-0d454b1ae53f)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Praskliny.md">Další krok =></a>
+ </div>
