@@ -1,7 +1,7 @@
 # Úvod
 Vítejte ve stručném návodu k vytváření procedurálních realistických povrchů v Blenderu!
 
-V tomto dokumentu se dozvíte jak se tvoří základní materiály tak, aby vypadaly opravdově a realisticky ve vašich dalších modelech. Tento dokument se zabývá tvorbou 4 materiálů a to: dřevo, ocel, beton a kámen. 
+V tomto dokumentu se dozvíte jak se tvoří základní materiály tak, aby vypadaly opravdově a realisticky ve vašich dalších modelech. Tento dokument se zabývá tvorbou 4 materiálů a to: dřevo, asfalt. 
 
 Tento návod byl vytvořen jako praktická část SOČ roku 2025. Veškeré informace o něm lze naleznout v samotné práci.
 
@@ -18,3 +18,6 @@ Obsah:
    2. Suky
    3. Dodatečné škrábance
    4. Dřevo - přehled
+5. Asfalt
+   1. Barva asfaltu
+
