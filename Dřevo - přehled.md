@@ -5,8 +5,8 @@ Pokud jste prošli celým návodem na vytvoření realistického asfaltu, vaší
 
 Pomocí barev jsou označeny jednotlivé kapitoly:
 - Modrá - [Hlavní struktura](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Hlavn%C3%AD%20struktura.md)
-- Modrá - [Nedokonalosti](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nedokonalosti.md)
-- Modrá - [Rýhy](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md)
+- Zelená - [Nedokonalosti](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nedokonalosti.md)
+- Červená - [Rýhy](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md)
 
 A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 
