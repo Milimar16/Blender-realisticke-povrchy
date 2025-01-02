@@ -1,18 +1,16 @@
-# Asfalt - přehled
+# Dřevo - přehled
 Pokud jste prošli celým návodem na vytvoření realistického asfaltu, vaším výsledkem by měla být síť uzlů vypadající takto:
-![A15](https://github.com/user-attachments/assets/6e97504d-542a-456d-9991-9c88afd234b4)
+![D17](https://github.com/user-attachments/assets/da492e65-0f46-466e-bcfb-1caed9ed6b29)
+
 
 Pomocí barev jsou označeny jednotlivé kapitoly:
-- Červená - [Barva asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20asfaltu.md)
-- Zelená - [Praskliny](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Praskliny.md)
-- Modrá - [Poškození](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md)
-- Růžová - [Kombinace struktur](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Kombinace%20struktur.md)
-- Žlutá - [Bump mapping a hrubost asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Bump%20mapping%20a%20hrubost%20asfaltu.md)
+- Modrá - [Hlavní struktura](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Hlavn%C3%AD%20struktura.md)
+- Modrá - [Nedokonalosti](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nedokonalosti.md)
+- Modrá - [Rýhy](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md)
 
 A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 
-![A16](https://github.com/user-attachments/assets/e3f3eebc-f7d5-4892-aefb-728ade5cc7ab)
-
+![D18](https://github.com/user-attachments/assets/928c8b24-60c4-4206-8b77-97230916079f)
 _Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení._
 
 
