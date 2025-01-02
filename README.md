@@ -15,9 +15,9 @@ Obsah:
    4. [Ocel - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled.md)
 4. Dřevo
    1. [Hlavní struktura](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Hlavn%C3%AD%20struktura.md)
-   2. Suky
-   3. Dodatečné škrábance
-   4. Dřevo - přehled
+   2. [Nedokonalosti](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nedokonalosti.md)
+   3. [Rýhy](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md)
+   4. [Dřevo - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/D%C5%99evo%20-%20p%C5%99ehled.md)
 5. Asfalt
    1. [Barva asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20asfaltu.md)
    2. [Praskliny](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Praskliny.md)
