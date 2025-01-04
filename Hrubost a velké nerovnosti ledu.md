@@ -4,3 +4,10 @@ Hrubost (Roughness) vytvoříme pomocí nové **Textury šumu**. Můžeme ji dok
 
 Dále z faktorového výstupu textury připojte a vytvořte uzel **Rampa barev** a posuvníky nastavte do 1/3 a 1/2 přičemž nalevo nechte bílou barvu (#ffffff) a napravou tmavší šedou (v ukázce #555555). Barvový výstup rampy připojte do vstupu **Roughness** uzlu Principled BSDF.
 ![L5](https://github.com/user-attachments/assets/f9734e75-30f5-4a07-b9eb-b56b6fdc3406)
+
+---
+### Krok 2. Nerovnosti
+K výraznějším nerovnostím můžeme využít již vytvořenou **Texturu šumu**. Za ni nám stačí připojit druhou **Rampu barev** kde posuvník s černou barvou dejte doprostřed a s tmavě šedou do 9/10 (skoro ke konci).
+
+Tuto **Rampu barev** poté připojte do vstupu výška nového uzlu **Bump**. Jeho sílu nastavte na 0.2 a jeho normálový výstup do normálového vstupu uzlu Bump z předchozí kapitoly.
+![L6](https://github.com/user-attachments/assets/1acca53c-092f-458f-bfde-8d61eaeda789)
