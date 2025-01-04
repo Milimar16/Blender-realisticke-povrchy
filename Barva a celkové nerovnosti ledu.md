@@ -1,4 +1,4 @@
-# Barva a celková hrubost
+# Barva a celkové nerovnosti ledu
 ### Krok 1. Určení základních vlastností v Principled BSDF
 Led má vcelku rozdílné vlastnosti od ostatních materiálů v tomto návodu. Například jeho barvu můžeme zvolit jednoduše pomocí uzlu Principled BSDF a to na slabý odstín modré (v příkladu využita barva #C3D2F5)
 ![L1](https://github.com/user-attachments/assets/98f0bbdb-5de5-492d-9081-222c87a34044)
@@ -19,3 +19,7 @@ Přidejte (pomocí Ctrl + T) také uzly **Mapování** a **Souřadnice textury**
 ### Krok 3. Konverze na normálové hodnoty
 K tomuto použijeme uzel **Bump**. Přidejte jej a do výšky připojte faktorový výstup Textury šumu. Sílu uzlu nastavte na 0.05 (slabé nerovnosti) a připojte jej do normálového vstupu Principled BSDF.
 ![L4](https://github.com/user-attachments/assets/0ce3190a-78b6-4233-87c6-145504154a9c)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/%C5%A0kr%C3%A1bance%20ledu.md">Další krok =></a>
+ </div>
