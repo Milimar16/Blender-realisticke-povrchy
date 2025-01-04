@@ -18,3 +18,4 @@ Přidejte (pomocí Ctrl + T) také uzly **Mapování** a **Souřadnice textury**
 ---
 ### Krok 3. Konverze na normálové hodnoty
 K tomuto použijeme uzel **Bump**. Přidejte jej a do výšky připojte faktorový výstup Textury šumu. Sílu uzlu nastavte na 0.05 (slabé nerovnosti) a připojte jej do normálového vstupu Principled BSDF.
+![L4](https://github.com/user-attachments/assets/0ce3190a-78b6-4233-87c6-145504154a9c)
