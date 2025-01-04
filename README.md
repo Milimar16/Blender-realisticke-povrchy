@@ -3,6 +3,8 @@ Vítejte ve stručném návodu k vytváření procedurálních realistických po
 
 V tomto dokumentu se dozvíte jak se tvoří základní materiály tak, aby vypadaly opravdově a realisticky ve vašich dalších modelech. Tento dokument se zabývá tvorbou 4 materiálů a to: ocel, dřevo, asfalt a led. 
 
+![RENDER](https://github.com/user-attachments/assets/0fe3d568-99bc-401b-8b3e-9d5a1ee449de)
+
 Tento návod byl vytvořen jako praktická část SOČ roku 2025. Veškeré informace o něm lze naleznout v samotné práci.
 
 Obsah:
