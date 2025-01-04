@@ -21,5 +21,5 @@ K tomuto použijeme uzel **Bump**. Přidejte jej a do výšky připojte faktorov
 ![L4](https://github.com/user-attachments/assets/0ce3190a-78b6-4233-87c6-145504154a9c)
 
 <div align="right">
-<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/%C5%A0kr%C3%A1bance%20ledu.md">Další krok =></a>
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Hrubost%20a%20velk%C3%A9%20nerovnosti%20ledu.md">Další krok =></a>
  </div>
