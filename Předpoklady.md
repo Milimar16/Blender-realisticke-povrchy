@@ -1,6 +1,6 @@
 # Předpoklady
 Předpoklady k tvorbě jsou:
-- Nainstalován [Blender](https://www.blender.org/) **verze 4.2.2 LTS**
+- Nainstalován [Blender](https://www.blender.org/) **verze 4.3**
 - Počítač který spňuje základní požadavky provozu Blenderu a to:
 	- 64bitový procesor
 	- 8 gigabajtů RAM
