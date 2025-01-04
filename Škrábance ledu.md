@@ -25,3 +25,7 @@ Maskou vyhraničíme oblasti kde se mají škrábance projevovat připojíme pom
 ### Krok 4. Připojení do normálových dat
 Konečně škrábance připojíme do normálové mapy a to znovu s uzlem **Bump**. Duplikujte uzel z minulé kapitoly a výstup nového připojte do normálového vstupu originálu. Do výšky pak připojte výstup z **Mix color**.
 ![L10](https://github.com/user-attachments/assets/183f192b-3af4-4fbf-bfdd-a79d031a8871)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Led%20-%20p%C5%99ehled.md">Další krok =></a>
+ </div>
