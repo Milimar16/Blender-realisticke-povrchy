@@ -11,3 +11,7 @@ K výraznějším nerovnostím můžeme využít již vytvořenou **Texturu šum
 
 Tuto **Rampu barev** poté připojte do vstupu výška nového uzlu **Bump**. Jeho sílu nastavte na 0.2 a jeho normálový výstup do normálového vstupu uzlu Bump z předchozí kapitoly.
 ![L6](https://github.com/user-attachments/assets/1acca53c-092f-458f-bfde-8d61eaeda789)
+
+<div align="right">
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/%C5%A0kr%C3%A1bance%20ledu.md">Další krok =></a>
+ </div>
