@@ -14,13 +14,3 @@ A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 ![A16](https://github.com/user-attachments/assets/e3f3eebc-f7d5-4892-aefb-728ade5cc7ab)
 
 _Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení._
-
-
-Pokud máte nějaké otázky ohledně návodu, zkuste svoji odpověď nalézt v souboru [Často kladené otázky]()
-
-
-
-
-
-
-
