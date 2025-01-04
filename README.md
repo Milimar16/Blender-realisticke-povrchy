@@ -24,4 +24,7 @@ Obsah:
    3. [Poškození](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md)
    4. [Bump mapping a hrubost asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Bump%20mapping%20a%20hrubost%20asfaltu.md)
    5. [Asfalt - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Asfalt%20-%20p%C5%99ehled.md)
-
+6. Led
+   1. [Barva a celkové nerovnosti ledu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20a%20celkov%C3%A9%20nerovnosti%20ledu.md)
+   2. [Hrubost a velké nerovnosti ledu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Hrubost%20a%20velk%C3%A9%20nerovnosti%20ledu.md)
+   3. [Škrábance ledu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/%C5%A0kr%C3%A1bance%20ledu.md)
