@@ -16,7 +16,7 @@ Druhá Textura šumu (vyznačena červeně) bude standardní texturou, která bu
 
 ---
 ### Krok 2. Mapování textury
-Před smícháním obou textur nejdříve musíme ovlivnit jejich mapování a to pomocí uzlu **Mapování**. Nejdříve vložte uzel **Mix Color** do roviny, vyberte jej a zmáčkněte **Ctrl + T**. Měly by se vám zjevit 3 nové uzly, Souřadnice textury, Mapování a Obrázková textura, tento poslední smažte (vyberte jej a zmáčněte Delete nebo Ctrl + X).
+Před smícháním obou textur nejdříve musíme ovlivnit jejich mapování a to pomocí uzlu **Mapování**. Nejdříve vložte uzel **Mix Color** do roviny, vyberte jej a zmáčkněte **Ctrl + T**. Měly by se vám zjevit 3 nové uzly, Souřadnice textury, Mapování a Obrázková textura, tento poslední smažte (vyberte jej a zmáčkněte Delete nebo Ctrl + X).
 
 Následně přepojte výstup **Objekt** ze Souřadnic textury do vstupu Vektor v Mapování a **Vektorový výstup** mapování do prvního (**A**) vstupu **Mix** uzlu.
 
