@@ -14,3 +14,5 @@ Zde vyberte ve výběru **Barva** možnost **Textura prostředí**.
 
 Pak už jen vyberte **Otevřít** a zvolte svůj stažený HDRI v prohlížeči.
 ![S4](https://github.com/user-attachments/assets/6c7d0f64-9a10-4296-a3a0-ee83626199f9)
+
+A nyní už můžete s radostí renderovat!
