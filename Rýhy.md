@@ -23,5 +23,5 @@ Propojte normálovými spoji první s druhým a výstup druhého zapojte do **No
 ![D10](https://github.com/user-attachments/assets/33f73781-b80c-4569-9c9f-07115367a565)
 
 <div align="right">
-<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/D%C5%99evo%20-%20p%C5%99ehled">Další krok =></a>
+<a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/D%C5%99evo%20-%20p%C5%99ehled.md">Další krok =></a>
  </div>
