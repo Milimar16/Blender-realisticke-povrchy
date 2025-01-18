@@ -1,5 +1,5 @@
 # Obsah
-Vítejte ve stručném návodu k vytváření procedurálních realistických povrchů v Blenderu!
+Vítejte ve stručném návodu k vytváření procedurálních realistických povrchů v programu Blender!
 
 V tomto dokumentu se dozvíte jak se tvoří základní materiály tak, aby vypadaly opravdově a realisticky ve vašich dalších modelech. Tento dokument se zabývá tvorbou 4 materiálů a to: ocel, dřevo, asfalt a led. 
 
