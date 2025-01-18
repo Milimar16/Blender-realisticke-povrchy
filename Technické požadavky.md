@@ -1,5 +1,5 @@
 # Technické požadavky
-Předpoklady k tvorbě jsou:
+Technickými požadavky k tvorbě jsou:
 - Nainstalován [Blender](https://www.blender.org/) **verze 4.3**
 - Počítač který spňuje základní požadavky provozu Blenderu a to:
 	- 64bitový procesor
