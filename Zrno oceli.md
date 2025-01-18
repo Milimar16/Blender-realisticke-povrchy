@@ -1,4 +1,5 @@
 # Zrno oceli
+V této kapitole vytvoříte podkladový vzhled oceli, tzv. zrno.
 ### Krok 1. - Úprava Principled BSDF
 Potažením myší posuňte hodnotu metalýzy **(Metallic)** na maximum, tedy 1. 
 ![Metallic](https://github.com/user-attachments/assets/dd76c2fa-31bf-4309-9696-27e3896cab9c)
