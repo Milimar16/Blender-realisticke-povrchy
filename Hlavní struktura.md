@@ -1,6 +1,6 @@
 # Hlavní struktura
 ### Krok 1. Příprava texturových uzlů
-Vložte do prostředí 2 **Textury šumu**. První (vyznačena v obrázku zeleně) bude sloužit podobně jako Musgrave textura z verze Blenderu 4.0, takže ji nastavte následovně:
+Vložte do prostředí 2 **Textury šumu**. První (vyznačena v obrázku zeleně) bude sloužit podobně jako [Musgrave textura](https://docs.blender.org/manual/en/latest/render/shader_nodes/textures/musgrave.html) z verze Blenderu 4.0, takže ji nastavte následovně:
 - **Velikost** na 2
 - **Detail** na maximum
 - **Roughness** na maximum
