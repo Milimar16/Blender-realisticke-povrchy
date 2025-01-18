@@ -5,7 +5,7 @@ Potažením myší posuňte hodnotu metalýzy **(Metallic)** na maximum, tedy 1.
 <br>
 A stejným způsobem snižte **Roughness** někam mezi 0.4 a 0.2.
 ### Krok 2. - Přidání zrnění pomocí vlnové textury
-Přidejte do prostředí uzel **Vlnová textura** (zmáčknutím Shift + A) a poté ji vyberte a stiskněte Ctrl a T, toto přidá uzly Mapování a Souřadnice textury, které se budou hodit následovně.
+Přidejte do prostředí uzel **Vlnová textura** (zmáčknutím Shift + A) a poté ji vyberte a stiskněte Ctrl a T. Toto přidá uzly Mapování a Souřadnice textury, které se budou hodit následovně.
 Také propojte výstup Objekt v Souřadnici textury s Vektorem v Mapování, toto materiálu dovolí lepší rozložení po povrchu objektu.
 ![Vlnova_textura](https://github.com/user-attachments/assets/aab41700-6fec-4611-91ef-71c81b688845)
 <br>
