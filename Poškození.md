@@ -32,6 +32,7 @@ Poslední částí je přidání míchacího uzlu **Mix color**. Faktor nastavte
 
 Jelikož chceme jen světlé hodnoty kamínků v poškozených částech, změňte **Blending mode** uzlu Mix color na **Zesvětlit**.
 ![A7](https://github.com/user-attachments/assets/77ebcfa2-9af2-481b-b60d-b5878c7fab72)
+</details>
 
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Bump%20mapping%20a%20hrubost%20asfaltu.md">Další krok =></a>
