@@ -1,5 +1,7 @@
 # Příprava prostředí
-### Krok 1. Konfigurace render engine
+<details>
+<summary>Krok 1. Konfigurace render engine</summary>
+  
 **Otevřete na svém počítači Blender** a jako první by jste měli vidět toto základní rozpoložení:
 ![Základní rozpoložení](https://github.com/user-attachments/assets/1beefad8-bfb7-4aa6-8723-c254f48c9007)
 <br>
@@ -15,10 +17,11 @@ Dále vyberte v pravé liště možnost **Render** a v první možnosti
 /> </div>
 <br>
 Tímto krokem jste změnili render engine, který bude blender využívat. Cycles je vhodnější pro renderování realismu. Je ale hardwarově více náročný proto se nedivte, když váš render nebude trvat pár sekund jako v EEVEE, ale několik minut (a nebo hodin 😱 u náročnějších scén!)
+</details>
 
--------
+<details> 
+<summary> Krok 2. Instalace rozšíření Node Wrangler Material Library </summary>
 
-### Krok 2. Instalace rozšíření [Node Wrangler](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html) a [Material Library](https://projects.blender.org/extensions/materials_library_vx)
 _Pokud již máte tato rozšíření aktivována, přeskočte tento krok._
 
 Otevřete v horní liště možnost **Upravit** a zvolte **⚙️ Předvolby...** (alternativně můžete zmáčnkout klávesy **Ctrl + ,**)
@@ -60,6 +63,9 @@ Toto rozšíření umožňuje ukládání materiálů a jejich používání nap
 
 Následně ve vrchní liště vyberte **Shading**, a nový materiál se vám sám vytvoří.
 Teď už je váš program připraven a můžeme se pustit do tvorby materiálů!
+
+</details>
+
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Zrno%20oceli.md">Další krok =></a>
  </div>
