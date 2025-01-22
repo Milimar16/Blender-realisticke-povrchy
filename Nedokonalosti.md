@@ -1,5 +1,8 @@
 # Nedokonalosti
-### Krok 1. Tvorba černobílé mapy pomocí textur
+
+<details>
+<summary>Krok 1. Tvorba černobílé mapy pomocí textur</summary>
+
 Přidejte do plochy uzel **Vlnová textura** a **Textura šumu**. Nastavte je takto:
 **Vlnová textura:** (Tato textura bude zkreslovat následný šum)
 - **Velikost** na 0.8
@@ -16,11 +19,15 @@ Následně zapojte barvový výstup vlnové textury do vektoru Textury šumu a p
 
 ![D6](https://github.com/user-attachments/assets/d7387dce-a3f6-445a-a14f-5fbd5cf6ce2d)
 
----
-### Krok 2. Přidání do barevné sekvence
+</details>
+<details>
+
+<summary>Krok 2. Přidání do barevné sekvence</summary>
+
 Vytvořte uzel **Rampa barev** kde úplně na kraj levé strany gradientového řádku zvolte čistě bílou barvu a přibližně do 3/5 dejte druhý posuvník se světlou šedou. Toto zjemní efekt textury. Následně výstup této rampy připojte do vstupu A nově vytvořeného uzlu **Mix color**, a do B výstup konečného mixu barev z minulé kapitoly. Zvolte potom místo možnosti **Mix** na **Násobit** a připojte jej do Rampy barev tvořící barvu dřeva.
 
 ![D7](https://github.com/user-attachments/assets/f0db0f10-7143-4791-812d-ad8d5306e500)
+</details>
 
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/R%C3%BDhy.md">Další krok =></a>
