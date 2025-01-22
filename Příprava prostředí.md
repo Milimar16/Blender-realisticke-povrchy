@@ -20,7 +20,7 @@ Tímto krokem jste změnili render engine, který bude blender využívat. Cycle
 </details>
 
 <details> 
-<summary> Krok 2. Instalace rozšíření Node Wrangler Material Library </summary>
+<summary>Krok 2. Instalace rozšíření Node Wrangler Material Library </summary>
 
 _Pokud již máte tato rozšíření aktivována, přeskočte tento krok._
 
