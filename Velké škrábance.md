@@ -1,5 +1,7 @@
 # Velké škrábance
-### Krok 1. - Vytvoření textury pomocí 2 uzlů
+
+<details>
+<summary>Krok 1. - Vytvoření textury pomocí 2 uzlů</summary>
 
 #### a) Vlnová textura
 Pomocí tohoto uzlu určíme tvar a všeobecný vzhled škrábanců.
@@ -29,8 +31,10 @@ Náhled na tuto texturu by měl vypadat asi takto:
 /> </div>
 <br>
 
----
-### Krok 2. - Sloučení 2 textur
+</details>
+<details>
+
+<summary>Krok 2. - Sloučení 2 textur</summary>
 To aby se Vlnová textura projevovala v oblastech určených Texturou šumu, využijeme uzly **Oddělit XYZ** a **Kombinovat XYZ**. Poté přiřadíme Vlnovou texturu pouze k jedné ze souřadnic (v tomto případě **Y**), ostatní necháme být.
 
 Vytvořte tyto dva uzly a připojte je následovně:
@@ -45,8 +49,10 @@ Vytvořte tyto dva uzly a připojte je následovně:
 
 Tímto se nám spojily tyto dvě textury, a škrábance se budou projevovat více na oblastech vyznačených Texturou šumu.
 
----
-### Krok 3. - Omezení rozsahu a spojení s ostatními normálami
+</details>
+<details>
+
+<summary>Krok 3. - Omezení rozsahu a spojení s ostatními normálami</summary>
 V této podobě by byly škrábance příliš časté a ostré, proto přidáme za Texturu šumu ještě **Rampu barev** u které posunutím posuvníků dosáhneme přesně toho (ještě nezapomeňte prohodit bílou a černou).
 <div align="center">
 <img
@@ -64,7 +70,8 @@ Duplikujeme tedy minulý **Bump** uzel (Shift + D) a připojíme jej tak jak byl
 ![O12](https://github.com/user-attachments/assets/f2c034eb-1baf-437f-a421-3a3733503eb1)
 
 Nakonec nezapomeňte připojit Principled BSDF s výstupem, jako na obrázku.
- 
+</details>
+
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ocel%20-%20p%C5%99ehled.md">Další krok =></a>
  </div>
