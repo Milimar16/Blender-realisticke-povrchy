@@ -1,5 +1,8 @@
 # Malé škrábance oceli
-### Krok 1. - Vytvoření normálové mapy škrábanců
+
+<details>
+<summary>Krok 1. - Vytvoření normálové mapy škrábanců</summary>
+
 Přidejte do prostředí uzel **Textura šumu**, kterou připojte rovnou za uzel Mapování, a **Rampu barev**.
 **Texturu šumu** upravte takto:
 - **Velikost** nastavte na cca 4
@@ -18,9 +21,11 @@ Pak spojte následovně (obrázek ukazuje náhled na uzel Rampa barev):
   align="middle"
 /> </div>
 
----
+</details>
+<details>
 
-### Krok 2. - Spojení normálových map škrábanců a zrna
+<summary>Krok 2. - Spojení normálových map škrábanců a zrna</summary>
+
 Spojení této a minulé hrubosti zrna dosáhneme dalším **Bump** uzlem. Můžeme duplikovat předchozí, zapojit do výšky naši nynější texturu a do normály připojit předchozí Bump uzel.
 <br>
 <br>
@@ -49,6 +54,7 @@ Výsledkem by měla být textura na které je vidět jak zrno (červeně vyznač
   
 ![O7](https://github.com/user-attachments/assets/bfdd193b-e228-4ccb-8d49-16b548e6ce8c)
 </div>
+</details>
 
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Velk%C3%A9%20%C5%A1kr%C3%A1bance.md">Další krok =></a>
