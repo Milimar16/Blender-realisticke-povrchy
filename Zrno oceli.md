@@ -1,11 +1,18 @@
 # Zrno oceli
 V této kapitole vytvoříte podkladový vzhled oceli, tzv. zrno.
-### Krok 1. - Úprava Principled BSDF
+
+<details>
+<summary>Krok 1. - Úprava Principled BSDF</summary>
+
 Potažením myší posuňte hodnotu metalýzy **(Metallic)** na maximum, tedy 1. 
 ![Metallic](https://github.com/user-attachments/assets/dd76c2fa-31bf-4309-9696-27e3896cab9c)
 <br>
 A stejným způsobem snižte **Roughness** někam mezi 0.4 a 0.2.
-### Krok 2. - Přidání zrnění pomocí vlnové textury
+</details>
+
+<details>
+<summary> Krok 2. - Přidání zrnění pomocí vlnové textury </summary>
+
 Přidejte do prostředí uzel **Vlnová textura** (zmáčknutím Shift + A) a poté ji vyberte a stiskněte Ctrl a T. Toto přidá uzly Mapování a Souřadnice textury, které se budou hodit následovně.
 Také propojte výstup Objekt v Souřadnici textury s Vektorem v Mapování, toto materiálu dovolí lepší rozložení po povrchu objektu.
 ![Vlnova_textura](https://github.com/user-attachments/assets/aab41700-6fec-4611-91ef-71c81b688845)
@@ -43,7 +50,10 @@ Následně propojte takto:
   align="middle"
 /> </div>
 
-### Krok 3. - Přidání výstupků zrnění
+</details>
+<details>
+
+<summary>Krok 3. - Přidání výstupků zrnění</summary>
 Vytvořte 2 další uzly a to **Bump**, který konvertuje na normálové nerovnosti, a další **Rampu barev**, která bude ovlivňovat míru pokrytí povrchu.
 <br>
 
@@ -59,6 +69,9 @@ Poté zapojte následovně, aby se bump projevil jako výstupky na výsledném z
   width="75%"
   align="middle"
 /> </div>
+
+</details>
+
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Mal%C3%A9%20%C5%A1kr%C3%A1bance.md">Další krok =></a>
  </div>
