@@ -11,7 +11,7 @@ A stejným způsobem snižte **Roughness** někam mezi 0.4 a 0.2.
 </details>
 
 <details>
-<summary> Krok 2. - Přidání zrnění pomocí vlnové textury </summary>
+<summary>Krok 2. - Přidání zrnění pomocí vlnové textury </summary>
 
 Přidejte do prostředí uzel **Vlnová textura** (zmáčknutím Shift + A) a poté ji vyberte a stiskněte Ctrl a T. Toto přidá uzly Mapování a Souřadnice textury, které se budou hodit následovně.
 Také propojte výstup Objekt v Souřadnici textury s Vektorem v Mapování, toto materiálu dovolí lepší rozložení po povrchu objektu.
