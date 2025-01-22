@@ -1,13 +1,17 @@
 # Bump mapping asfaltu
 V této kapitole dáme materiálu hrubost a nerovnosti pomocí uzlů **Bump**.
-### Krok 1. Celoplošné nerovnosti
+
+<details>
+<summary>Krok 1. Celoplošné nerovnosti</summary>
+
 Vytvořte uzel **Textura šumu**, který bude určovat výšku celoplošných nerovností a nastavte takto:
 - **Velikost** na cca 55
 - **Detail** na maximum
 Do vektoru tohoto uzlu použijte zase výstup Objekt Souřadnic textury.
 
----
-### Krok 2. Řetěz uzlů Bump
+</details>
+<details>
+<summary>Krok 2. Řetěz uzlů Bump</summary>
 Pro vytvoření normálové mapy (určení nerovností na materiálu) budeme potřebovat konvertor z barevných hodnot na normálové hodnoty. Tohoto dosáhneme pomocí uzlu **Bump**. Abychom zakomponovali všechny druhy struktur, vytvoříme řetěz těchto uzlů.
 
 Do vstupu Výška prvního z nich připojte Texturu šumu z minulého kroku a poslední připojte do vstupu Normála uzlu Principled BSDF.
@@ -23,10 +27,13 @@ _V tomto náhledu třetího uzlu Bump byly předešlé dva utlumeny klávesou M_
 Faktor čtvrtého nastavte na 0.4 a do jeho vstupu Výška připojte výsledek uzlu **Mix color** z třetí kapitoly ([Poškození](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Po%C5%A1kozen%C3%AD.md)).
 ![A13](https://github.com/user-attachments/assets/b4b44bd8-4fc1-4a89-b649-596594210e6b)
 
----
-### Krok 3. Hrubost
+</details>
+<details>
+<summary>Krok 3. Hrubost</summary>
+
 Konečným krokem bude ovlivnění hrubosti (Roughness) asfaltu. Budeme vycházet z výstupu skupiny uzlů určujících barvu a přidáme do prostředí **Rampu barev** do jejíhž vstupu bude směřovat výstup Vzdálenost uzlu Textura Voronoi z první kapitoly ([Barva asfaltu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Barva%20asfaltu.md)). Černou barvu na levé straně rampy nahraďte za velmi světlou šedou, aby byl materiál výrazně hrubý. Výstup rampy barev pak povede přímo do vstupu **Roughness** uzlu Principled BSDF.
 ![A14](https://github.com/user-attachments/assets/915529ec-f859-4552-807f-15350d7e8da2)
+</details>
 
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Asfalt%20-%20p%C5%99ehled.md">Další krok =></a>
