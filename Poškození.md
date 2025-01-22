@@ -1,8 +1,10 @@
 # Poškození
 V této části vytvoříte malé oblasti, na kterých bude vidět štěrk v poškozeních částech asfaltu.
 
----
-### Krok 1. Kamínky
+<details>
+
+<summary>Krok 1. Kamínky</summary>
+
 Strukturu jednotlivých kamínků ve štěrku dosáhneme pomocí další **Textury Voronoi** nastavenou na tyto hodnoty:
 - **Dimenzi** na 4D (Dosáhneme tím i tmavějších oblastí)
 - **Feature output** na Distance to Edge
@@ -12,9 +14,11 @@ Následně pro slabé zkreslení využijeme znovu **Textury šumu**, kde nastav�
 
 Výstup míchacího uzlu připojte k uzlu **Textura Voronoi** a nakonec ještě jednou výstup Objekt připojte i k Vektoru **Textury šumu**.
 ![A5](https://github.com/user-attachments/assets/56768842-a49c-409a-8277-b32edd9f7213)
+</details>
+<details>
 
----
-### Krok 2. Maska
+<summary>Krok 2. Maska</summary>
+
 Stejně jako s prasklinami, i zde nechceme aby štěrk pokrýval celou plochu objektu, ale jenom dané části. Duplikujte tedy uzel **Textura šumu** z minulého kroku a snižte **Velikost** na 3.
 
 Potom přidejte **Rampu barev**, kde posuvníky posuňte vcelku hodně k sobě přibližně do 2/5 lišty (můžete i do jiné části, záleží na tom jak moc chcete aby byl váš asfalt poškozen). Do Faktoru zapojte faktorový výstup nové **Textury šumu**.
