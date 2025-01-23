@@ -54,6 +54,7 @@ Následně propojte takto:
 <details>
 
 <summary>Krok 3. - Přidání výstupků zrnění</summary>
+
 Vytvořte 2 další uzly a to **Bump**, který konvertuje na normálové nerovnosti, a další **Rampu barev**, která bude ovlivňovat míru pokrytí povrchu.
 <br>
 
