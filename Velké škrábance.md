@@ -35,6 +35,7 @@ Náhled na tuto texturu by měl vypadat asi takto:
 <details>
 
 <summary>Krok 2. - Sloučení 2 textur</summary>
+
 To aby se Vlnová textura projevovala v oblastech určených Texturou šumu, využijeme uzly **Oddělit XYZ** a **Kombinovat XYZ**. Poté přiřadíme Vlnovou texturu pouze k jedné ze souřadnic (v tomto případě **Y**), ostatní necháme být.
 
 Vytvořte tyto dva uzly a připojte je následovně:
@@ -53,6 +54,7 @@ Tímto se nám spojily tyto dvě textury, a škrábance se budou projevovat víc
 <details>
 
 <summary>Krok 3. - Omezení rozsahu a spojení s ostatními normálami</summary>
+
 V této podobě by byly škrábance příliš časté a ostré, proto přidáme za Texturu šumu ještě **Rampu barev** u které posunutím posuvníků dosáhneme přesně toho (ještě nezapomeňte prohodit bílou a černou).
 <div align="center">
 <img
