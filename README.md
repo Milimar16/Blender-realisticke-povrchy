@@ -32,3 +32,4 @@ Obsah:
    3. [Škrábance ledu](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/%C5%A0kr%C3%A1bance%20ledu.md)
    4. [Led - přehled](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Led%20-%20p%C5%99ehled.md)
 7. [Nastavení osvětlení](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Nastaven%C3%AD%20osv%C4%9Btlen%C3%AD.md)
+8. [Ostatní zdroje](https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/Ostatn%C3%AD%20zdroje.md)
