@@ -13,6 +13,11 @@ A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 
 _Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení. Také kvůli průsvitnosti ledu se tento vzhled velmi liší od vyrenderovaného obrázku v Cycles!_
 
+Po finálním vyrenderování pak může vypadat takto:
+
+![led](https://github.com/user-attachments/assets/b5dfaa6e-ad8b-4943-a15f-0ed4206148b9)
+
+
 </div>
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/README.md">Zpět na obsah =></a>
