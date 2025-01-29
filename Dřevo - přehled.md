@@ -14,6 +14,10 @@ A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 
 _Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení._
 
+Po finálním vyrenderování pak může vypadat takto:
+![drevo](https://github.com/user-attachments/assets/07f18068-ddb9-4382-b308-c8280571e905)
+
+
 </div>
 <div align="right">
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/README.md">Zpět na obsah =></a>
