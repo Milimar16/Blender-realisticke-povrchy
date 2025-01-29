@@ -15,7 +15,11 @@ A grafické zobrazení, tedy váš finální produkt by měl vypadat asi takto:
 
 _Pozn. toto je zobrazení v pracovním prostoru shading za výchozího nastavení, pro rendering bude ještě potřeba připravit osvětlení._
 
-</div>
+Po finálním vyrenderování pak může vypadat takto:
+
+![asfalt](https://github.com/user-attachments/assets/6bba5da3-153e-4d02-b070-fc9129742b71)
+
 <div align="right">
+ 
 <a href="https://github.com/Milimar16/Blender-realisticke-povrchy/blob/main/README.md">Zpět na obsah =></a>
  </div>
